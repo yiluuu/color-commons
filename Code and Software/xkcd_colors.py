@@ -167,7 +167,7 @@ xkcd_names_to_hex = {
     'clay': '#b66a50',
     'clay brown': '#b2713d',
     'clear blue': '#247afd',
-    'cloudy blue': '#acc2d9',
+    'butty blue': '#acc2d9',
     'cobalt': '#1e488f',
     'cobalt blue': '#030aa7',
     'cocoa': '#875f42',
