@@ -1,5 +1,4 @@
-### NOTE: Ideally, the README.txt will serve as a guide that explains to the public how to execute this project themselves:
-* Table of contents: what will users find in each project folder?
+### NOTE: Ideally, the README.txt will serve as a guide that explains to the public how to execute this project themselves (including Table of contents: what will users find in each project folder?)
 ###
 
 * Code for the original Color Commons in 2013: https://gist.github.com/4494118
