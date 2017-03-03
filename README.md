@@ -1,4 +1,6 @@
-### NOTE: Ideally, the README.txt will serve as a guide that explains to the public how to execute this project themselves. ###
+### NOTE: Ideally, the README.txt will serve as a guide that explains to the public how to execute this project themselves:
+* Table of contents: what will users find in each project folder?
+###
 
 * Code for the original Color Commons in 2013: https://gist.github.com/4494118
 * tech blog post http://rascalmicro.com/docs/project-light-blades.html
